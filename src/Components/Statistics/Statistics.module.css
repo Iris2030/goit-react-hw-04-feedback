@@ -1,0 +1,12 @@
+
+
+
+.stats{
+    display: block;
+    margin-top: 20px;
+   
+}
+
+.stats:last-child{
+    padding-bottom: 40px;  
+}

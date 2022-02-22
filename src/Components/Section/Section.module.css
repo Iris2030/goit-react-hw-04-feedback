@@ -1,0 +1,26 @@
+.container{
+
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 400px;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+ 
+}
+
+
+.title:first-child{
+padding-top: 40px;
+margin-bottom: 30px;
+ 
+}
+
+.title:not(:first-child){
+    margin-bottom: 30px;  
+
+}
+ 
